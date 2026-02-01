@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/laidegang65-hue/octra-extension-wallet/issues"
   },
-  "homepage": "https://github.com/laidegang65-hue/octra-extension-wallet#readme"
+  "homepage": "https://github.com/laidegang65-hue/octra-extension-wallet#readme",
+  "dependencies": {
+    "bip39": "^3.1.0"
+  }
 }
