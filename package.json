@@ -1,0 +1,21 @@
+{
+  "name": "octra-extension-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laidegang65-hue/octra-extension-wallet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/laidegang65-hue/octra-extension-wallet/issues"
+  },
+  "homepage": "https://github.com/laidegang65-hue/octra-extension-wallet#readme"
+}
